@@ -24,6 +24,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/DevSantos09/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
  
 </div>
