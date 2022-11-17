@@ -10,6 +10,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
+ 
+---
+  
+  
+  <div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&theme=blue-green"/>
+  </div>
+  
 
   ---
   
@@ -39,38 +47,31 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original-wordmark.svg">
 <img align="center" alt="GitHub" height="60" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
-
-
-//inserir link em cima
- 
-
-
-
-
-
-
-
-// treinar aqui em baixo e inserir lá em cima
-
-
-
 </div>
   
-  ##
- 
- 
- 
- 
- 
- 
- 
- não mexer em baixo....
- 
- 
+---
+  
 <div> 
   <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+  <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/DevSantos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  
+  
+  
+  //trabalhando aqui....
+  <a href="https://github.com/DevSantos09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  
+  
+  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+  
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  ok
+  
+  
+  não mexer aqui em baixo
+  
+  
   ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
  
 </div>
