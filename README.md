@@ -15,7 +15,7 @@
   
   
   <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&theme=codeSTACKr"/>
   </div>
   
 
@@ -51,25 +51,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
   
 ---
   
-<div> 
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<div>
+   <a href="https://codepen.io/DevSantos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
   <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/DevSantos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  //padlet
   
-  
-  
-  //trabalhando aqui....
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:DevSantos09@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
-  
-  https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
-  
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-  ok
-  
-  
-  não mexer aqui em baixo
+  //trabalhando aqui....
   
   
   ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
