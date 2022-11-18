@@ -5,21 +5,22 @@
 - 🥋 Pronouns: Sensei/Student
 - ⚡ Fun fact: ...
 
-<div align="center">
+//trabalhando aqui 
+<div align="center"> 
   <a href="https://github.com/DevSantos09">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img width="46%" height="199px" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> 
+  <img width="53%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
- 
+  
 ---
   
-  
-  <div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&theme=codeSTACKr"/>
-  </div>
-  
 
-  ---
+     
+     
+     // trabalhando em cima
+     
+     
+  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
