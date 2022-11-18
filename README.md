@@ -53,17 +53,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
 <div>
    <a href="https://codepen.io/DevSantos" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
   <a href = "mailto:DevSantos09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  //padlet
-  
+ <a href="https://padlet.com/DevSantos" target="_blank"><img src="https://padlet.net/packs/media/images/padlet_logo_black-b637f7a60bd79c21c564054f17ac6b9b.svg"></a>
   <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:DevSantos09@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  
-  // adicionando o padlet
-  
-   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://padlet.net/packs/media/images/padlet_logo_black-b637f7a60bd79c21c564054f17ac6b9b.svg"></a>
-  
-  https://padlet.net/packs/media/images/padlet_logo_black-b637f7a60bd79c21c564054f17ac6b9b.svg
   
   ##
   
