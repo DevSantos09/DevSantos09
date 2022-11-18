@@ -1,5 +1,10 @@
 ## Hi I'm Santos 👋
 
+```javascript
+
+```
+
+
 - 🌱 I’m currently learning Analysis and Systems Development
 - 📫 How to reach me: Dev.Santos09@gmail.com
 - 🥋 Pronouns: Sensei/Student
@@ -7,19 +12,12 @@
 
 //trabalhando aqui 
 <div align="center"> 
-  <a href="https://github.com/DevSantos09">
-  <img width="46%" height="199px" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/> 
-  <img width="53%" height="199px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 ---
-  
 
-     
-     
-     // trabalhando em cima
-     
-     
   </div>
   
 <div style="display: inline_block"><br>
@@ -61,8 +59,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
   <a href = "mailto:DevSantos09@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
-  //trabalhando aqui....
-  
+  ##
   
   ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
  
