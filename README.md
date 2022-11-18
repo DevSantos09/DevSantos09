@@ -1,16 +1,12 @@
-## Hi I'm Santos 👋
+# Hello World 👋
+  
+<div align="center"> 
 
-```javascript
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Code&pause=1000&color=0000FF&background=000000F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Santos👋;I'm+a+Student+of+TI💻+and+Music🎵;📖João+3:16"❤Jesus+Loves+You❤";🙃Be+Welcome🙃)](https://git.io/typing-svg)
+</div>
 
-```
+---
 
-
-- 🌱 I’m currently learning Analysis and Systems Development
-- 📫 How to reach me: Dev.Santos09@gmail.com
-- 🥋 Pronouns: Sensei/Student
-- ⚡ Fun fact: ...
-
-//trabalhando aqui 
 <div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevSantos09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSantos09&layout=compact&langs_count=7&theme=codeSTACKr"/>
