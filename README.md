@@ -59,6 +59,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-w
   <a href = "mailto:DevSantos09@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   
+  // adicionando o padlet
+  
+   <a href="https://github.com/DevSantos09" target="_blank"><img src="https://padlet.net/packs/media/images/padlet_logo_black-b637f7a60bd79c21c564054f17ac6b9b.svg"></a>
+  
+  https://padlet.net/packs/media/images/padlet_logo_black-b637f7a60bd79c21c564054f17ac6b9b.svg
+  
   ##
   
   ![Snake animation](https://github.com/DevSantos09/DevSantos09/blob/output/github-contribution-grid-snake.svg)
